@@ -38,3 +38,9 @@ https://docs.microsoft.com/en-us/graph/overview?view=graph-rest-1.0
 https://developer.microsoft.com/en-us/graph/graph-explorer
 
 https://docs.microsoft.com/en-us/graph/search-concept-overview
+
+https://docs.microsoft.com/en-us/graph/api/resources/mail-api-overview?view=graph-rest-1.0
+
+https://docs.microsoft.com/en-us/graph/query-parameters#select-parameter
+
+https://docs.microsoft.com/en-us/graph/api/resources/message?view=graph-rest-1.0
